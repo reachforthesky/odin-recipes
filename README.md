@@ -1,2 +1,2 @@
 # odin-recipes
-Simple website for storing recpies
+Simple website for storing recipes
