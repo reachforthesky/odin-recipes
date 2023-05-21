@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+}
+
+body {
+    display: inline;
+    background-color: aqua;
+    align-items: justify;
+}
+
+ul{
+    display: inline-block;
+    align-items: center;
+    width: 300px;
+    list-style-position: outside;
+}
