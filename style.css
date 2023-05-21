@@ -12,9 +12,38 @@ h1 {
     color: darkgreen
 }
 
-ul{
+.intro {
+    padding: 10px;
+    margin: auto;
+    background-color: white;
+    width: 80%
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul,ol{
     display: inline-block;
     align-items: center;
-    width: 300px;
     list-style-position: outside;
+}
+
+ol li{
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
+
+a:hover {
+    background-color: darkred;
+}
+
+a {
+    background-color: blue;
+    width: 300px;
+    color: white;
+    text-decoration: none;
 }
