@@ -8,6 +8,10 @@ body {
     align-items: justify;
 }
 
+h1 {
+    color: darkgreen
+}
+
 ul{
     display: inline-block;
     align-items: center;
